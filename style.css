@@ -1,0 +1,13 @@
+h1{font-family:arial, helvetica, sans-serif;
+  font-weight:300;
+   color:#222;
+    text-shadow:1px 1px 1px rgba(0,0,0,.4)
+  }
+  
+  #showValue {
+    font-family:arial, helvetica, sans-serif;
+    background:#34404b;
+    color:#ffffff;
+    padding:10px;
+    
+  }
